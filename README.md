@@ -1,6 +1,11 @@
-**<Nama NI MADE NIA PARAMITA >** · NIM `2501010376`
+**NAMA : NI MADE NIA PARAMITA** · 
+NIM `2501010376`
 Program Studi Informatika, INSTIKI
+
 Mata kuliah: *Data Acquisition & Management*
+
+
+
 
 
 <div align="center">
