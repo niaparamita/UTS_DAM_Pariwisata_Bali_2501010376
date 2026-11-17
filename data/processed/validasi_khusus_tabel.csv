@@ -1,0 +1,18 @@
+﻿nomor_tabel,pemeriksaan,hasil,detail
+6,jumlah 20 negara = baris TOTAL (2024),LULUS,"5,423,664 vs 5,423,664"
+6,TOTAL + OTHER = TOTAL ARRIVAL (2024),LULUS,"6,333,360 vs 6,333,360"
+6,pangsa 20 negara + lainnya = 100% (2024),LULUS,100.0000
+6,peringkat 2024 unik,PERLU DICATAT,1 peringkat ganda di sumber (peringkat dicatat apa adanya)
+6,jumlah 20 negara = baris TOTAL (2025),LULUS,"5,875,797 vs 5,875,797"
+6,TOTAL + OTHER = TOTAL ARRIVAL (2025),LULUS,"6,948,754 vs 6,948,754"
+6,pangsa 20 negara + lainnya = 100% (2025),LULUS,100.0000
+6,peringkat 2025 unik,LULUS,0 peringkat ganda di sumber (peringkat dicatat apa adanya)
+7,jumlah 12 bulan = kolom TOTAL (tiap negara),LULUS,0 dari 184 negara tidak cocok
+7,sel bulan kosong pada baris negara,PERLU DICATAT,6 sel kosong (dihitung 0 saat menjumlah)
+7,jumlah negara = subtotal kelompok,LULUS,kelompok tidak cocok: tidak ada
+7,jumlah subtotal kelompok = baris TOTAL (12 bulan + tahunan),LULUS,selisih maks 0
+17,jumlah obyek = JUMLAH kabupaten/kota (semua kolom tahun),PERLU DICATAT,"1 sel selisih: JEMBRANA REGENCY 2022_wisnus: +9,527"
+17,jumlah JUMLAH kabupaten/kota = baris TOTAL,LULUS,selisih maks 0
+17,bagian kabupaten/kota yang ditemukan,LULUS,9 kabupaten/kota + 1 baris total
+28,jumlah butir yang terbaca (8 butir utama),LULUS,"8 butir, 16 baris"
+28,kapasitas kamar/kursi tahun terakhir terisi,PERLU DICATAT,5 baris kamar/kursi bernilai 0 atau kosong pada 2024/2025 (kemungkinan belum dilaporkan)

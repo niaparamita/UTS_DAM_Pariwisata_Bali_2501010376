@@ -1,0 +1,13 @@
+﻿skenario,variabel_cuaca,n,rho,p_value
+A. Semua bulan (kunjungan),suhu_rata2_c,264,0.105,0.089
+A. Semua bulan (kunjungan),curah_hujan_total_mm,264,-0.069,0.2655
+A. Semua bulan (kunjungan),hari_hujan,264,-0.042,0.4952
+A. Semua bulan (kunjungan),angin_maks_kmh,264,0.299,0.0
+B. Tahun normal (kunjungan),suhu_rata2_c,228,0.105,0.1133
+B. Tahun normal (kunjungan),curah_hujan_total_mm,228,-0.084,0.2045
+B. Tahun normal (kunjungan),hari_hujan,228,-0.051,0.4398
+B. Tahun normal (kunjungan),angin_maks_kmh,228,0.346,0.0
+C. Tahun normal (indeks musiman),suhu_rata2_c,228,-0.356,0.0
+C. Tahun normal (indeks musiman),curah_hujan_total_mm,228,-0.324,0.0
+C. Tahun normal (indeks musiman),hari_hujan,228,-0.322,0.0
+C. Tahun normal (indeks musiman),angin_maks_kmh,228,0.059,0.3791

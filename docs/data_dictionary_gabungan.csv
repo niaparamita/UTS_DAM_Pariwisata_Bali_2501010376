@@ -1,0 +1,82 @@
+﻿kode,nama_kolom,tipe_data,jumlah_nilai_terisi,jumlah_missing,jumlah_nilai_unik,contoh_nilai
+D1 (UTAMA),tahun,int64,264,0,22,2004 | 2004 | 2004
+D1 (UTAMA),bulan,int64,264,0,12,1 | 2 | 3
+D1 (UTAMA),kunjungan,int64,264,0,264,167106 | 133660 | 118369
+D2,tahun,int64,57,0,57,1969 | 1970 | 1971
+D2,wisman_indonesia,float64,57,0,57,86067.0 | 129319.0 | 178781.0
+D2,growth_indonesia_persen,float64,56,1,56,50.25 | 38.25 | 23.72
+D2,wisman_bali,float64,57,0,57,11278.0 | 24340.0 | 34313.0
+D2,growth_bali_persen,float64,54,3,53,115.82 | 40.97 | 36.99
+D3,pintu_masuk,object,24,0,2,Bandara Ngurah Rai | Bandara Ngurah Rai | Bandara Ngurah Rai
+D3,tahun,int64,24,0,1,2025 | 2025 | 2025
+D3,bulan,int64,24,0,12,1 | 2 | 3
+D3,kunjungan,float64,24,0,24,526831.0 | 444411.0 | 464697.0
+D4,kelas_hotel,object,72,0,6,Bintang 5 | Bintang 5 | Bintang 5
+D4,tahun,int64,72,0,1,2025 | 2025 | 2025
+D4,bulan,int64,72,0,12,1 | 2 | 3
+D4,tpk_persen,float64,72,0,69,60.0 | 48.59 | 46.71
+D5,kelompok,object,198,0,8,ASEAN | ASEAN | ASEAN
+D5,negara,object,198,0,27,(subtotal kelompok) | (subtotal kelompok) | (subtotal kelompok)
+D5,jenis_baris,object,198,0,3,subtotal_kelompok | subtotal_kelompok | subtotal_kelompok
+D5,tahun,int64,198,0,6,2019 | 2020 | 2021
+D5,kunjungan,float64,160,38,160,613509.0 | 100967.0 | 337769.0
+Tabel 6,negara,object,23,0,23,AUSTRALIAN | INDIAN | CHINESE
+Tabel 6,peringkat_2024,object,20,3,19,I | II | III
+Tabel 6,kunjungan_2024,float64,23,0,23,1544141.0 | 550379.0 | 448446.0
+Tabel 6,pangsa_2024_persen,float64,23,0,23,24.38107102706936 | 8.69015814670254 | 7.080696502330516
+Tabel 6,peringkat_2025,object,20,3,20,I | II | III
+Tabel 6,kunjungan_2025,float64,23,0,23,1628459.0 | 569261.0 | 537375.0
+Tabel 6,perubahan_persen,float64,23,0,23,5.460511701975403 | 3.4307268264232462 | 19.83048126195796
+Tabel 6,pangsa_2025_persen,float64,23,0,23,23.435266236220194 | 8.192274471077836 | 7.7334008370421525
+Tabel 6,jenis_baris,object,23,0,4,negara | negara | negara
+Tabel 7,kelompok,object,192,0,8,ASIA PACIFIC | ASIA PACIFIC | ASIA PACIFIC
+Tabel 7,no_urut,object,192,0,60, | 1 | 2
+Tabel 7,negara,object,192,0,192,EXCLUDING ASEAN | Australian | Bhutan
+Tabel 7,jenis_baris,object,192,0,3,subtotal | negara | negara
+Tabel 7,jan,float64,192,0,95,307053.0 | 134483.0 | 0.0
+Tabel 7,feb,float64,192,0,92,242924.0 | 96421.0 | 0.0
+Tabel 7,mar,float64,191,1,93,242180.0 | 103892.0 | 0.0
+Tabel 7,apr,float64,190,2,102,308532.0 | 139481.0 | 0.0
+Tabel 7,mei,float64,192,0,105,329882.0 | 138515.0 | 0.0
+Tabel 7,jun,float64,191,1,112,349066.0 | 143915.0 | 82.0
+Tabel 7,jul,float64,192,0,123,368385.0 | 161051.0 | 66.0
+Tabel 7,agu,float64,192,0,106,350533.0 | 145756.0 | 0.0
+Tabel 7,sep,float64,192,0,102,339880.0 | 152440.0 | 0.0
+Tabel 7,okt,float64,192,0,106,324794.0 | 147581.0 | 0.0
+Tabel 7,nov,float64,192,0,102,269820.0 | 123937.0 | 124.0
+Tabel 7,des,float64,190,2,113,316415.0 | 140987.0 | 71.0
+Tabel 7,total_tahunan,float64,192,0,128,3749464.0 | 1628459.0 | 343.0
+Tabel 7,persen_total,float64,192,0,128,53.95879606617244 | 23.435266236220194 | 0.0049361367519989915
+Tabel 17,kabupaten_kota,object,300,0,10,DENPASAR CITY | DENPASAR CITY | DENPASAR CITY
+Tabel 17,no_urut,object,300,0,98,1 | 2 | 3
+Tabel 17,objek_wisata,object,300,0,292,Museum Bali | Museum Le Mayuer | Taman Budaya art centre
+Tabel 17,jenis_baris,object,300,0,3,objek | objek | objek
+Tabel 17,2016_total,float64,142,158,122,38437.0 | 6194.0 | 14345.0
+Tabel 17,2017_total,float64,149,151,128,31693.0 | 5229.0 | 10300.0
+Tabel 17,2018_wisnus,float64,155,145,132,18927.0 | 1798.0 | 5078.0
+Tabel 17,2018_wisman,float64,164,136,141,16704.0 | 3324.0 | 2286.0
+Tabel 17,2019_wisnus,float64,150,150,129,18815.0 | 1108.0 | 6357.0
+Tabel 17,2019_wisman,float64,155,145,134,13457.0 | 2476.0 | 1196.0
+Tabel 17,2020_wisnus,float64,179,121,109,4248.0 | 1345.0 | 717.0
+Tabel 17,2020_wisman,float64,173,127,101,3082.0 | 413.0 | 93.0
+Tabel 17,2021_wisnus,float64,253,47,127,1991.0 | 131.0 | 1903.0
+Tabel 17,2021_wisman,float64,252,48,89,86.0 | 1.0 | 12.0
+Tabel 17,2022_wisnus,float64,246,54,154,11535.0 | 845.0 | 9895.0
+Tabel 17,2022_wisman,float64,246,54,134,6553.0 | 707.0 | 439.0
+Tabel 17,2023_wisnus,float64,256,44,178,18230.0 | 1984.0 | 3720.0
+Tabel 17,2023_wisman,float64,263,37,169,13803.0 | 1848.0 | 917.0
+Tabel 17,2024_wisnus,float64,247,53,183,24796.0 | 3816.0 | 621.0
+Tabel 17,2024_wisman,float64,247,53,170,13835.0 | 1466.0 | 212.0
+Tabel 17,2025_wisnus,float64,215,85,196,11473.0 | 1295.0 | 166.0
+Tabel 17,2025_wisman,float64,219,81,202,6898.0 | 855.0 | 316.0
+Tabel 28,no_urut,int64,16,0,8,1 | 2 | 3
+Tabel 28,uraian,object,16,0,8,Direct Foreign Tourist Arrival to Bali | Number of Passangers to Bali via Ngurah Rai Airport | Number of Passangers to Bali via Gilimanuk Harbour
+Tabel 28,sub_uraian,object,16,0,4, |  | 
+Tabel 28,satuan,object,16,0,4, |  | 
+Tabel 28,2019,float64,16,0,16,6275210.0 | 11312189.0 | 5565837.0
+Tabel 28,2020,float64,16,0,16,1069473.0 | 2918682.0 | 2710790.0
+Tabel 28,2021,float64,16,0,16,51.0 | 1882404.0 | 3088999.0
+Tabel 28,2022,float64,16,0,16,2155747.0 | 6343711.0 | 5360063.0
+Tabel 28,2023,float64,16,0,16,5273258.0 | 10659625.0 | 6402915.0
+Tabel 28,2024,float64,16,0,12,6333360.0 | 11884433.0 | 7009472.0
+Tabel 28,2025,float64,11,5,11,6948754.0 | 11961772.0 | 7101964.0

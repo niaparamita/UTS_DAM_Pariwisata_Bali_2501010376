@@ -1,0 +1,56 @@
+{
+  "dibuat_utc": "2026-11-17 10:07:20 UTC",
+  "file_hasil": "bali_wisnus_cuaca_bulanan.csv",
+  "jumlah_baris": 264,
+  "jumlah_kolom": 12,
+  "kolom": {
+    "tahun": "Tahun kalender",
+    "bulan": "Bulan (1-12)",
+    "kunjungan": "Jumlah kunjungan wisatawan domestik ke Bali (kunjungan, hasil survei Dinas Pariwisata Bali)",
+    "suhu_rata2_c": "Rata-rata suhu harian 2 m (derajat C), Denpasar",
+    "curah_hujan_total_mm": "Total curah hujan bulanan (mm), Denpasar",
+    "hari_hujan": "Jumlah hari dengan hujan >= 1 mm",
+    "angin_maks_kmh": "Kecepatan angin maksimum harian 10 m (km/jam) - maksimum bulanan",
+    "hari_tercatat": "Jumlah hari berdata cuaca",
+    "hari_seharusnya": "Jumlah hari dalam bulan",
+    "periode": "Penanda periode (pra-pandemi/pandemi-pemulihan/pasca-pemulihan)",
+    "periode_normal": "False untuk 2020-2022",
+    "indeks_musiman": "Kunjungan bulan / rata-rata bulanan tahun yang sama"
+  },
+  "sumber": [
+    {
+      "berkas": "Banyaknya Wisatawan Domestik Bulanan ke Bali, 2004-2025.csv",
+      "url": "https://bali.bps.go.id/id/statistics-table?subject=561",
+      "sumber_asli": "Hasil Survei Dinas Pariwisata Provinsi Bali"
+    },
+    {
+      "berkas": "openmeteo_denpasar_harian_2004_2025.json",
+      "url": "https://archive-api.open-meteo.com/v1/archive",
+      "parameter": {
+        "latitude": -8.65,
+        "longitude": 115.22,
+        "start_date": "2004-01-01",
+        "end_date": "2025-12-31",
+        "daily": "temperature_2m_mean,precipitation_sum,wind_speed_10m_max",
+        "timezone": "Asia/Makassar"
+      }
+    }
+  ],
+  "metode_merge": "pd.merge(how='left', on=['tahun','bulan'], validate='one_to_one')",
+  "bukti_merge": {
+    "baris_kiri": 264,
+    "baris_kanan": 264,
+    "baris_hasil": 264,
+    "kunci_ganda": 0,
+    "tanpa_pasangan": 0,
+    "validate": "one_to_one"
+  },
+  "validasi_silang_antar_sumber": {
+    "tahun_diuji": 7,
+    "semua_sama": true,
+    "bulanan_2025_tabel7_vs_pintu": true
+  },
+  "md5_hasil": "c46663cefa99a0ea8d0fdfcc55a78986",
+  "lisensi_sumber": "Needs verification (lihat docs/provenance.json); Open-Meteo CC BY 4.0 (verifikasi)",
+  "catatan": "Analisis hanya asosiasi; cuaca satu titik (Denpasar); wisnus dari survei (bukan sensus); 2020-2022 terdistorsi pandemi."
+}

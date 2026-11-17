@@ -1,0 +1,233 @@
+[
+  {
+    "nama_sumber": "Table-1-7-Final-5.xls",
+    "metode_akuisisi": "download manual",
+    "url": "https://disparda.baliprov.go.id/buku-statistik-pariwisata-bali-tahun-2025",
+    "waktu_akses_utc": "2026-11-17 09:05:03 UTC",
+    "lisensi": "Needs verification - lisensi khusus dataset belum ditemukan",
+    "file_lokal": "data/raw/Table-1-7-Final-5.xls",
+    "ukuran_bytes": 177152,
+    "md5": "95c90976c7f1eb4badb1a3a96c4a526b",
+    "sumber": "Statistik Pariwisata Bali 2025 (Dinas Pariwisata Prov. Bali); sumber asli tabel: BPS Provinsi Bali / Dinas Pariwisata (tertulis di tiap tabel) | memuat Tabel 6 dan 7"
+  },
+  {
+    "nama_sumber": "Table-17-Final-7.xlsx",
+    "metode_akuisisi": "download manual",
+    "url": "https://disparda.baliprov.go.id/buku-statistik-pariwisata-bali-tahun-2025",
+    "waktu_akses_utc": "2026-11-17 09:05:03 UTC",
+    "lisensi": "Needs verification - lisensi khusus dataset belum ditemukan",
+    "file_lokal": "data/raw/Table-17-Final-7.xlsx",
+    "ukuran_bytes": 63824,
+    "md5": "ce9d625286e52fd80a8c58558a08e1e2",
+    "sumber": "Statistik Pariwisata Bali 2025 (Dinas Pariwisata Prov. Bali); sumber asli tabel: BPS Provinsi Bali / Dinas Pariwisata (tertulis di tiap tabel) | memuat Tabel 17"
+  },
+  {
+    "nama_sumber": "Table-24-31-Final-5.xls",
+    "metode_akuisisi": "download manual",
+    "url": "https://disparda.baliprov.go.id/buku-statistik-pariwisata-bali-tahun-2025",
+    "waktu_akses_utc": "2026-11-17 09:05:03 UTC",
+    "lisensi": "Needs verification - lisensi khusus dataset belum ditemukan",
+    "file_lokal": "data/raw/Table-24-31-Final-5.xls",
+    "ukuran_bytes": 129536,
+    "md5": "c670447a303c6bdb57fbaa12fa3e2189",
+    "sumber": "Statistik Pariwisata Bali 2025 (Dinas Pariwisata Prov. Bali); sumber asli tabel: BPS Provinsi Bali / Dinas Pariwisata (tertulis di tiap tabel) | memuat Tabel 28"
+  },
+  {
+    "nama_sumber": "Banyaknya Wisatawan Domestik Bulanan ke Bali, 2004-2025.csv",
+    "metode_akuisisi": "download manual",
+    "url": "https://bali.bps.go.id/id/statistics-table?subject=561",
+    "waktu_akses_utc": "2026-11-17 09:05:03 UTC",
+    "lisensi": "Needs verification - cek ketentuan penggunaan portal sumber CSV; tidak diasumsikan CC BY",
+    "file_lokal": "data/raw/Banyaknya Wisatawan Domestik Bulanan ke Bali, 2004-2025.csv",
+    "ukuran_bytes": 3569,
+    "md5": "c0be2f368c6339e80ee7128a9ea6f55f",
+    "sumber": "Wisatawan domestik bulanan ke Bali 2004-2025; sumber tertulis di berkas: Hasil Survei Dinas Pariwisata Provinsi Bali (DATASET UTAMA)"
+  },
+  {
+    "nama_sumber": "Banyaknya Wisatawan Mancanegara ke Bali dan Indonesia, 1969-2025.csv",
+    "metode_akuisisi": "download manual",
+    "url": "https://bali.bps.go.id/id/statistics-table?subject=561",
+    "waktu_akses_utc": "2026-11-17 09:05:03 UTC",
+    "lisensi": "Needs verification - cek ketentuan penggunaan portal sumber CSV; tidak diasumsikan CC BY",
+    "file_lokal": "data/raw/Banyaknya Wisatawan Mancanegara ke Bali dan Indonesia, 1969-2025.csv",
+    "ukuran_bytes": 3277,
+    "md5": "ab034ea9e86e16ae85766ee2b37f2af3",
+    "sumber": "Wisman ke Indonesia dan Bali 1969-2025; sumber tertulis di berkas: BPS Provinsi Bali"
+  },
+  {
+    "nama_sumber": "Jumlah Wisatawan Mancanegara Bulanan ke Bali Menurut Pintu Masuk, 2025.csv",
+    "metode_akuisisi": "download manual",
+    "url": "https://bali.bps.go.id/id/statistics-table?subject=561",
+    "waktu_akses_utc": "2026-11-17 09:05:03 UTC",
+    "lisensi": "Needs verification - cek ketentuan penggunaan portal sumber CSV; tidak diasumsikan CC BY",
+    "file_lokal": "data/raw/Jumlah Wisatawan Mancanegara Bulanan ke Bali Menurut Pintu Masuk, 2025.csv",
+    "ukuran_bytes": 520,
+    "md5": "c5ff482924d737e2538420433c6841cc",
+    "sumber": "Wisman bulanan menurut pintu masuk 2025; sumber: BPS Provinsi Bali (sesuai portal)"
+  },
+  {
+    "nama_sumber": "Tingkat Penghunian Kamar (TPK) Hotel Bintang Menurut Kelas di Provinsi Bali, 2025.csv",
+    "metode_akuisisi": "download manual",
+    "url": "https://bali.bps.go.id/id/statistics-table?subject=561",
+    "waktu_akses_utc": "2026-11-17 09:05:03 UTC",
+    "lisensi": "Needs verification - cek ketentuan penggunaan portal sumber CSV; tidak diasumsikan CC BY",
+    "file_lokal": "data/raw/Tingkat Penghunian Kamar (TPK) Hotel Bintang Menurut Kelas di Provinsi Bali, 2025.csv",
+    "ukuran_bytes": 761,
+    "md5": "daa7cd8e0c212f5d001118e9e37bf1a2",
+    "sumber": "TPK hotel bintang menurut kelas 2025 (bulanan); sumber: BPS Provinsi Bali (sesuai portal)"
+  },
+  {
+    "nama_sumber": "_Banyaknya Wisatawan Mancanegara yang Datang Langsung ke Bali Menurut Kebangsaan 2019-2024.csv",
+    "metode_akuisisi": "download manual",
+    "url": "https://bali.bps.go.id/id/statistics-table?subject=561",
+    "waktu_akses_utc": "2026-11-17 09:05:03 UTC",
+    "lisensi": "Needs verification - cek ketentuan penggunaan portal sumber CSV; tidak diasumsikan CC BY",
+    "file_lokal": "data/raw/_Banyaknya Wisatawan Mancanegara yang Datang Langsung ke Bali Menurut Kebangsaan 2019-2024.csv",
+    "ukuran_bytes": 2964,
+    "md5": "de3d83169c1492b8b035c264e6a0a148",
+    "sumber": "Wisman langsung ke Bali menurut kebangsaan 2019-2024; sumber tertulis di berkas: BPS Provinsi Bali"
+  },
+  {
+    "nama_sumber": "bukti_disparda_halaman_publikasi.html",
+    "metode_akuisisi": "web (bukti kepatuhan)",
+    "url": "https://disparda.baliprov.go.id/buku-statistik-pariwisata-bali-tahun-2025",
+    "waktu_akses_utc": "2026-11-17 09:30:18 UTC",
+    "lisensi": "n/a (halaman bukti pemeriksaan)",
+    "file_lokal": "data/raw/bukti_kepatuhan/bukti_disparda_halaman_publikasi.html",
+    "ukuran_bytes": 225668,
+    "md5": "63fea145628553ad48443b50060403bc",
+    "sumber": "Bukti pemeriksaan lisensi/ketentuan untuk disparda_halaman_publikasi"
+  },
+  {
+    "nama_sumber": "bukti_openmeteo_lisensi.html",
+    "metode_akuisisi": "web (bukti kepatuhan)",
+    "url": "https://open-meteo.com/en/license",
+    "waktu_akses_utc": "2026-11-17 09:30:20 UTC",
+    "lisensi": "n/a (halaman bukti pemeriksaan)",
+    "file_lokal": "data/raw/bukti_kepatuhan/bukti_openmeteo_lisensi.html",
+    "ukuran_bytes": 100,
+    "md5": "24918127445438ddfa8ec3f8ad6ec73b",
+    "sumber": "Bukti pemeriksaan lisensi/ketentuan untuk openmeteo_lisensi"
+  },
+  {
+    "nama_sumber": "openmeteo_denpasar_harian_2004_2025.json",
+    "metode_akuisisi": "api",
+    "url": "https://archive-api.open-meteo.com/v1/archive?latitude=-8.65&longitude=115.22&start_date=2004-01-01&end_date=2025-12-31&daily=temperature_2m_mean%2Cprecipitation_sum%2Cwind_speed_10m_max&timezone=Asia%2FMakassar",
+    "waktu_akses_utc": "2026-11-17 09:31:18 UTC",
+    "lisensi": "Open-Meteo: data CC BY 4.0 (verifikasi di open-meteo.com/en/license; API gratis untuk non-komersial)",
+    "file_lokal": "data/raw/openmeteo_denpasar_harian_2004_2025.json",
+    "ukuran_bytes": 225609,
+    "md5": "ddf60a3cf6bed2bc2e48b44e2bc9a548",
+    "sumber": "Cuaca harian historis Denpasar (Open-Meteo Historical Weather API)"
+  },
+  {
+    "nama_sumber": "robots_disparda.txt",
+    "metode_akuisisi": "web (bukti kepatuhan)",
+    "url": "https://disparda.baliprov.go.id/robots.txt",
+    "waktu_akses_utc": "2026-11-17 10:03:11 UTC",
+    "lisensi": "n/a (bukti pemeriksaan)",
+    "file_lokal": "data/raw/bukti_kepatuhan/robots_disparda.txt",
+    "ukuran_bytes": 24,
+    "md5": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "sumber": "robots.txt Disparda Bali"
+  },
+  {
+    "nama_sumber": "disparda_dtw_badung_hal1.html",
+    "metode_akuisisi": "scraping",
+    "url": "https://disparda.baliprov.go.id/badung/",
+    "waktu_akses_utc": "2026-11-17 10:03:37 UTC",
+    "lisensi": "Needs verification - cek ToS situs Disparda Bali",
+    "file_lokal": "data/raw/disparda_dtw_badung_hal1.html",
+    "ukuran_bytes": 183104,
+    "md5": "3518aee2e48f42f67c4599efc2745220",
+    "sumber": "Listing daya tarik wisata (robots.txt diperiksa: docs/bukti_robots.csv)"
+  },
+  {
+    "nama_sumber": "disparda_dtw_buleleng_hal1.html",
+    "metode_akuisisi": "scraping",
+    "url": "https://disparda.baliprov.go.id/buleleng/",
+    "waktu_akses_utc": "2026-11-17 10:03:42 UTC",
+    "lisensi": "Needs verification - cek ToS situs Disparda Bali",
+    "file_lokal": "data/raw/disparda_dtw_buleleng_hal1.html",
+    "ukuran_bytes": 170676,
+    "md5": "702b1b4857d2c7f7b1ab0ec254458ac3",
+    "sumber": "Listing daya tarik wisata (robots.txt diperiksa: docs/bukti_robots.csv)"
+  },
+  {
+    "nama_sumber": "disparda_dtw_bangli_hal1.html",
+    "metode_akuisisi": "scraping",
+    "url": "https://disparda.baliprov.go.id/bangli/",
+    "waktu_akses_utc": "2026-11-17 10:03:48 UTC",
+    "lisensi": "Needs verification - cek ToS situs Disparda Bali",
+    "file_lokal": "data/raw/disparda_dtw_bangli_hal1.html",
+    "ukuran_bytes": 172171,
+    "md5": "7d6e07afab9375874fb9a4634902f0e5",
+    "sumber": "Listing daya tarik wisata (robots.txt diperiksa: docs/bukti_robots.csv)"
+  },
+  {
+    "nama_sumber": "disparda_dtw_denpasar_hal1.html",
+    "metode_akuisisi": "scraping",
+    "url": "https://disparda.baliprov.go.id/denpasar/",
+    "waktu_akses_utc": "2026-11-17 10:03:53 UTC",
+    "lisensi": "Needs verification - cek ToS situs Disparda Bali",
+    "file_lokal": "data/raw/disparda_dtw_denpasar_hal1.html",
+    "ukuran_bytes": 165805,
+    "md5": "b857e3a2dd78dd2b17d8a5d0cb49d087",
+    "sumber": "Listing daya tarik wisata (robots.txt diperiksa: docs/bukti_robots.csv)"
+  },
+  {
+    "nama_sumber": "disparda_dtw_gianyar_hal1.html",
+    "metode_akuisisi": "scraping",
+    "url": "https://disparda.baliprov.go.id/gianyar/",
+    "waktu_akses_utc": "2026-11-17 10:03:58 UTC",
+    "lisensi": "Needs verification - cek ToS situs Disparda Bali",
+    "file_lokal": "data/raw/disparda_dtw_gianyar_hal1.html",
+    "ukuran_bytes": 172112,
+    "md5": "c539156020a25f1ce45402d31085ca5b",
+    "sumber": "Listing daya tarik wisata (robots.txt diperiksa: docs/bukti_robots.csv)"
+  },
+  {
+    "nama_sumber": "disparda_dtw_jembrana_hal1.html",
+    "metode_akuisisi": "scraping",
+    "url": "https://disparda.baliprov.go.id/jembrana/",
+    "waktu_akses_utc": "2026-11-17 10:04:03 UTC",
+    "lisensi": "Needs verification - cek ToS situs Disparda Bali",
+    "file_lokal": "data/raw/disparda_dtw_jembrana_hal1.html",
+    "ukuran_bytes": 170616,
+    "md5": "b1392325bbc8330780629cd52f2ee716",
+    "sumber": "Listing daya tarik wisata (robots.txt diperiksa: docs/bukti_robots.csv)"
+  },
+  {
+    "nama_sumber": "disparda_dtw_karangasem_hal1.html",
+    "metode_akuisisi": "scraping",
+    "url": "https://disparda.baliprov.go.id/karangasem/",
+    "waktu_akses_utc": "2026-11-17 10:04:09 UTC",
+    "lisensi": "Needs verification - cek ToS situs Disparda Bali",
+    "file_lokal": "data/raw/disparda_dtw_karangasem_hal1.html",
+    "ukuran_bytes": 177218,
+    "md5": "34d857e3ffbbb0ac32c74b59a0b51464",
+    "sumber": "Listing daya tarik wisata (robots.txt diperiksa: docs/bukti_robots.csv)"
+  },
+  {
+    "nama_sumber": "disparda_dtw_klungkung_hal1.html",
+    "metode_akuisisi": "scraping",
+    "url": "https://disparda.baliprov.go.id/klungkung/",
+    "waktu_akses_utc": "2026-11-17 10:04:14 UTC",
+    "lisensi": "Needs verification - cek ToS situs Disparda Bali",
+    "file_lokal": "data/raw/disparda_dtw_klungkung_hal1.html",
+    "ukuran_bytes": 162556,
+    "md5": "5a8418c4366359171405ec0079de786a",
+    "sumber": "Listing daya tarik wisata (robots.txt diperiksa: docs/bukti_robots.csv)"
+  },
+  {
+    "nama_sumber": "disparda_dtw_tabanan_hal1.html",
+    "metode_akuisisi": "scraping",
+    "url": "https://disparda.baliprov.go.id/tabanan/",
+    "waktu_akses_utc": "2026-11-17 10:04:20 UTC",
+    "lisensi": "Needs verification - cek ToS situs Disparda Bali",
+    "file_lokal": "data/raw/disparda_dtw_tabanan_hal1.html",
+    "ukuran_bytes": 170748,
+    "md5": "65567baa46bdb5191db7b0078f4cbbc5",
+    "sumber": "Listing daya tarik wisata (robots.txt diperiksa: docs/bukti_robots.csv)"
+  }
+]
