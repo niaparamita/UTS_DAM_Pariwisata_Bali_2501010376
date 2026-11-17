@@ -1,3 +1,8 @@
+**<Nama NI MADE NIA PARAMITA >** · NIM `2501010376`
+Program Studi Informatika, INSTIKI
+Mata kuliah: *Data Acquisition & Management*
+
+
 <div align="center">
 
 # 🌴 Bali Tourism Intelligence
@@ -241,11 +246,8 @@ Proyek ini dibuat untuk **tujuan akademik** dan tidak untuk penggunaan komersial
 
 ---
 
-## 👤 Penulis
 
-**<Nama Lengkap>** · NIM `2501010376`
-Program Studi Informatika, INSTIKI
-Mata kuliah: *Data Acquisition & Management*
+
 
 ---
 
