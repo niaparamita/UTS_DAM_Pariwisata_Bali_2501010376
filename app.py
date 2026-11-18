@@ -20,17 +20,53 @@ import streamlit as st
 st.set_page_config(page_title="Bali Tourism Intelligence", page_icon="🌴", layout="wide")
 
 # ---------------------------------------------------------------- gaya
+
 st.markdown(
     """
     <style>
-    .block-container {padding-top: 2rem;}
-    [data-testid="stMetric"] {background:#172033; border:1px solid #172033; border-radius:14px; padding:14px 16px;}
-    [data-testid="stMetricLabel"] {color:#172033;}
-    h1, h2, h3 {letter-spacing: -0.3px;}
+    .block-container {
+        padding-top: 2rem;
+    }
+
+    /* Background kartu KPI */
+    [data-testid="stMetric"] {
+        background: #f4f7fb;
+        border: 1px solid #dbe4ee;
+        border-radius: 14px;
+        padding: 14px 16px;
+    }
+
+    /* Warna judul KPI */
+    [data-testid="stMetricLabel"] {
+        color: #52647a !important;
+    }
+
+    /* Warna angka KPI */
+    [data-testid="stMetricValue"] {
+        color: #172033 !important;
+    }
+
+    /* Warna keterangan / delta KPI */
+    [data-testid="stMetricDelta"] {
+        color: #16845b !important;
+    }
+
+    /* Warna judul dashboard */
+    h1, h2, h3 {
+        color: #e8edf5;
+        letter-spacing: -0.3px;
+    }
+
+    /* Warna teks umum */
+    p, label, span {
+        color: inherit;
+    }
+
     </style>
     """,
     unsafe_allow_html=True,
 )
+
 WARNA = {"utama": "#1f77b4", "aksen": "#ff7f0e", "hijau": "#2ca02c", "merah": "#d62728"}
 NAMA_BULAN = ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul", "Agu", "Sep", "Okt", "Nov", "Des"]
 TEMPLATE = "plotly_white"
