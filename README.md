@@ -178,7 +178,7 @@ UTS_DATAAKUISISI_pariwisata_<NIM>/
 1. Unggah notebook ke Google Colab.
 2. Buka **SEL 2** dan isi konfigurasi:
    ```python
-   EMAIL_KAMPUS = "emailkamu@instiki.ac.id"       # masuk ke User-Agent
+   EMAIL_KAMPUS = "mahasiswa@instiki.ac.id"       # masuk ke User-Agent
    NIM_FOLDER   = "UTS_DATAAKUISISI_pariwisata_<NIM>"
    URL_CSV_SUMBER = "https://..."                  # URL portal sumber CSV
    ```
